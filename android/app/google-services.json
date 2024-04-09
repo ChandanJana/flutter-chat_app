@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "878289820034",
+    "firebase_url": "https://flutter-prep-18dfc-default-rtdb.firebaseio.com",
+    "project_id": "flutter-prep-18dfc",
+    "storage_bucket": "flutter-prep-18dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878289820034:android:4f8ac70e3a41ad7c1ed79b",
+        "android_client_info": {
+          "package_name": "com.tutorial.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcWbAqppr_IQBvw-eyZX4MUcx3AigDdto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
